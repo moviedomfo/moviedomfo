@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" alt="MarceloOviedo" height="200px">
+<img src="./assets/banner.jpg" alt="MarceloOviedo" width= "90%" height="200px">
 
 <h1 align="center">Hi there, I'm Marcelo F. Oviedo 👋</h1>
 
