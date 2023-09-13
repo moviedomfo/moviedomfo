@@ -71,6 +71,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="54"
             height="54" alt="angular" style="vertical-align:top; margin:4px">
     </a>
+      <a href="">
+        <img src="./assets/react.ico" width="54"
+            height="54" alt="react" style="vertical-align:top; margin:4px">
+    </a>
+      <a href="">
+        <img src="./assets/microsoft-sql-server-48.png" width="54"
+            height="54" alt="sql-server" style="vertical-align:top; margin:4px">
+    </a>
 </p>
 
 <br/>
