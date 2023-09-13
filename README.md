@@ -19,8 +19,7 @@
 
 <h2 align="center">🛠 Technologies & Skils</h2>
 <p align="center">
-   
-    <a href="https://dotnet.microsoft.com/">
+       <a href="https://dotnet.microsoft.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
             height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
     </a>
@@ -28,8 +27,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="golang" width="54"
             height="54" style="vertical-align:top; margin:4px;">
     </a>
- 
-    <a href="">
+     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
             height="54" alt="javascript" style="vertical-align:top; margin:4px">
     </a>
