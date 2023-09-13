@@ -77,4 +77,8 @@
 
 <h2 align="center">🛠 More about me here 👇</h2>
 
-## My currículum 📄 [Currículum PDF](./assets/CV_Marcelo_Oviedo_v9.pdf)
+## 📄 [Currículum PDF](./assets/CV_Marcelo_Oviedo_v9.pdf)
+
+<br/>
+
+<a href="./assets/CV_Marcelo_Oviedo_v9.pdf">Download </a>
