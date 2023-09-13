@@ -75,10 +75,10 @@
 
 <br/>
 
-<h2 align="center">🛠 More about me here 👇</h2>
+<h2 align="center">More about me here 👇</h2>
 
 ## 📄 [Currículum PDF](./assets/CV_Marcelo_Oviedo_v9.pdf)
 
 <br/>
 
-<a href="./assets/CV_Marcelo_Oviedo_v9.pdf">Download </a>
+<a href="./assets/CV_Marcelo_Oviedo_v9.pdf">📥 Download </a>
