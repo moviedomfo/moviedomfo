@@ -109,10 +109,12 @@
 </p>
 <br/>
 
-<h2 align="center">More about me here 👇</h2>
+<h3 align="center">More about me here 👇</h3>
 
 ## 📄 [Currículum PDF](./assets/CV_Marcelo_Oviedo_v9.pdf)
 
 <br/>
 
 <a href="./assets/CV_Marcelo_Oviedo_v9.pdf">📥 Download </a>
+
+<a href="https://www.linkedin.com/marcelooviedo">👔 Sígueme en LinkedIn </a>
