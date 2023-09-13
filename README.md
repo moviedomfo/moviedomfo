@@ -1,8 +1,4 @@
-<!-- <div style="text-align:center;">
-  <img src="./assets/banner.jpg" alt="MarceloOviedo" style="width:95%; max-width:600px;height:auto;">
-</div> -->
-
-![](assets/header.png)
+![](./assets/header.png)
 
 <h1 align="center">Hi there, I'm Marcelo F. Oviedo 👋</h1>
 
