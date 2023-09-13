@@ -43,18 +43,7 @@
         <img src="./assets/react.ico" width="54"
             height="54" alt="react" style="vertical-align:top; margin:4px">
     </a>
-     <a href="https://hub.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
-            height="54" alt="docker" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://azure.microsoft.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="54" height="54"
-            alt="azure" style="vertical-align:top; margin:4px">
-    </a>
-       <a href="https://www.nginx.com/">
-        <img src="./assets/ngnx.png" width="54" height="54"
-            alt="azure" style="vertical-align:top; margin:4px">
-    </a>
+
 </p>
 
 <br/>
@@ -71,10 +60,21 @@
         <img src="./assets/redis.png" alt="apache-kafka" width="54" height="54"
         style="vertical-align:top; margin:4px;">
     </a>
-
  <a href="https://yaml.org">
         <img src="./assets/yaml.jpg" width="54"
             height="54" alt="kubernetes" style="vertical-align:top; margin:4px;">
+    </a>
+         <a href="https://hub.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
+            height="54" alt="docker" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://azure.microsoft.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="54" height="54"
+            alt="azure" style="vertical-align:top; margin:4px">
+    </a>
+       <a href="https://www.nginx.com/">
+        <img src="./assets/ngnx.png" width="54" height="54"
+            alt="azure" style="vertical-align:top; margin:4px">
     </a>
 </p>
 <br/>
