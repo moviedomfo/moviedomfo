@@ -1,4 +1,4 @@
-![](./assets/header.jpg)
+![MarceloOviedo](./assets/banner.jpg)
 
 <h1 align="center">Hi there, I'm Marcelo F. Oviedo 👋</h1>
 
@@ -11,7 +11,7 @@
   My aim is to continue driving innovation in software development and contributing to the growth of high-performing teams. I am committed to technical excellence and creating solutions that solve complex problems.
 - 📚 Sharing Knowledge:
   I thoroughly enjoy sharing my expertise with the development community. I relish engaging in technical discussions, exchanging ideas, and providing mentorship and training to colleagues and team members. I firmly believe in the power of continuous learning and talent development.
-- 💬 Ask me about ...
+- 💬 Ask me about what you want !!
   I'm excited to connect with peers, share experiences, and explore new opportunities in the world of technology!
 - 📫 How to reach me:
   Feel free to reach out if you'd like to discuss projects, collaborations, or simply exchange ideas.
