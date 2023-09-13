@@ -1,5 +1,6 @@
-<img src="./assets/banner.jpg" alt="MarceloOviedo" width= "90%" height="200px">
-
+<div style="text-align:center;">
+  <img src="./assets/banner.jpg" alt="MarceloOviedo" style="width:95%; max-width:600px;height:auto;">
+</div>
 <h1 align="center">Hi there, I'm Marcelo F. Oviedo 👋</h1>
 
 - 🔭 I’m currently working on Software architect at @grupokonecta...
