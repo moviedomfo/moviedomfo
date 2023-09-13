@@ -1,4 +1,4 @@
-![](./assets/banner.png)
+![](./assets/_banner.png)
 
 <h1 align="center">Hi there, I'm Marcelo F. Oviedo 👋</h1>
 
