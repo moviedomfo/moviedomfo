@@ -1,12 +1,11 @@
-![](assets/header.jpg)
+![](./assets/header.jpg)
 
 <h1 align="center">Hi there, I'm Marcelo F. Oviedo 👋</h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Software architect at @grupokonecta...
   I'm a software architect specializing in backend development and distributed systems.
   I have extensive experience in designing and implementing system using .NET, javascript, typescript, SQL
-- 🌱 I’m currently interest on ...
-  My interests include microservices, system design, software architecture, clean architecture, (DDD), event sourcing, CQRS. I love learning, sharing, and facing challenges.
+- 🌱 I’m currently interest on microservices, system design, software architecture, clean architecture, (DDD), event sourcing, CQRS. I love learning, sharing, and facing challenges.
 
 - ✨ My Goals
   My aim is to continue driving innovation in software development and contributing to the growth of high-performing teams. I am committed to technical excellence and creating solutions that solve complex problems.
@@ -24,7 +23,7 @@
             height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://kafka.apache.org/">
-        <img src="assets/apache_kafka.png" alt="apache-kafka"
+        <img src="./assets/apache_kafka.png" alt="apache-kafka"
             width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://dotnet.microsoft.com/">
