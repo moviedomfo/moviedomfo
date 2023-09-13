@@ -6,14 +6,18 @@
 - 🔭 I’m currently working on Software architect at @grupokonecta...
   I'm a software architect specializing in backend development and distributed systems.
   I have extensive experience in designing and implementing system using .NET, javascript, typescript, SQL
+
 - 🌱 I’m currently interest on microservices, system design, software architecture, clean architecture, (DDD), event sourcing, CQRS. I love learning, sharing, and facing challenges.
 
 - ✨ My Goals
   My aim is to continue driving innovation in software development and contributing to the growth of high-performing teams. I am committed to technical excellence and creating solutions that solve complex problems.
+
 - 📚 Sharing Knowledge:
   I thoroughly enjoy sharing my expertise with the development community. I relish engaging in technical discussions, exchanging ideas, and providing mentorship and training to colleagues and team members. I firmly believe in the power of continuous learning and talent development.
+
 - 💬 Ask me about what you want !!
   I'm excited to connect with peers, share experiences, and explore new opportunities in the world of technology!
+  
 - 📫 How to reach me:
   Feel free to reach out if you'd like to discuss projects, collaborations, or simply exchange ideas.
 
