@@ -1,6 +1,9 @@
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   <img src="./assets/banner.jpg" alt="MarceloOviedo" style="width:95%; max-width:600px;height:auto;">
-</div>
+</div> -->
+
+![](assets/header.png)
+
 <h1 align="center">Hi there, I'm Marcelo F. Oviedo 👋</h1>
 
 - 🔭 I’m currently working on Software architect at @grupokonecta...
@@ -17,7 +20,7 @@
 
 - 💬 Ask me about what you want !!
   I'm excited to connect with peers, share experiences, and explore new opportunities in the world of technology!
-  
+
 - 📫 How to reach me:
   Feel free to reach out if you'd like to discuss projects, collaborations, or simply exchange ideas.
 
