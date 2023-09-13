@@ -74,3 +74,6 @@
 </p>
 
 <br/>
+
+<h2 align="center">🛠 Download my CV here 👇</h2>
+[ 📄](./assets/CV_Marcelo_Oviedo_v9.pdf)
