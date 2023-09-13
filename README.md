@@ -31,16 +31,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
             height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
     </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.mongodb.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
-            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="54"
+    
+    <a href="https://yaml.org/">
+        <img src="./assets/yaml.jpg" width="54"
             height="54" alt="kubernetes" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://hub.docker.com/">
@@ -75,12 +68,34 @@
         <img src="./assets/react.ico" width="54"
             height="54" alt="react" style="vertical-align:top; margin:4px">
     </a>
-      <a href="">
+   
+      
+</p>
+<br/>
+<p>
+<a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
+            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
         <img src="./assets/microsoft-sql-server-48.png" width="54"
             height="54" alt="sql-server" style="vertical-align:top; margin:4px">
     </a>
 </p>
-
+<p>
+  <a href="https://expressjs.com/">
+        <img src="./assets/express-js.png" width="54"
+            height="54" alt="expressjs" style="vertical-align:top; margin:4px">
+    </a>
+        <a href="https://nestjs.com/">
+        <img src="./assets/nestjs.png" width="54"
+            height="54" alt="sql-server" style="vertical-align:top; margin:4px">
+    </a>
+</p>
 <br/>
 
 <h2 align="center">More about me here 👇</h2>
