@@ -63,7 +63,6 @@
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="54" height="54" alt="javascript"
             style="vertical-align:top; margin:4px">
     </a>
-
     <a href="https://kafka.apache.org/">
         <img src="./assets/apache_kafka.png" alt="apache-kafka" width="54" height="54"
         style="vertical-align:top; margin:4px;">
